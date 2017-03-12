@@ -16,7 +16,7 @@
 
 <th>page title</th>
 
-<td>the search engines will truncate page title to 65 characters home university of delhi</td><br>
+<td>the search engines will truncate page title to 65 characters home </td><br>
 
 </tr>
 
@@ -85,7 +85,7 @@
 
 <th>google search preview</th>
 
-<td>home university of delhi http://irctc.co.in/robots.txt  skip to navigation skip to content uic.cic.duwa.du radio.dumail.contact us.</td><br>
+<td>login home  http://irctc.co.in/robots.txt  skip to navigation skip to content irctcmail.contact us.</td><br>
 
 </tr>
 
