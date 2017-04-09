@@ -8,7 +8,7 @@
 <b><i>irctc</i></b>
 
 <tr>
-
+<th><b>s.no</b></th>
 <th><b> title</b></th>
 <td><b>description</b></td>
 <td><b>suggestion</b></td>
