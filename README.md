@@ -19,6 +19,7 @@
 
 <tr>
 
+<th>1</th>
 <th>page title</th>
 
 <td>The Page title length of your page is 39 characters. </td>
