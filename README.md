@@ -12,7 +12,7 @@
 <th><b> title</b></th>
 <td><b>description</b></td>
 <td><b>suggestion</b></td>
-<td><b>status</b><br>
+<td><b>status</b></td><br>
 
 
 </tr>
