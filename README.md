@@ -29,7 +29,7 @@
 </tr>
 
 <tr>
-
+<th>2</th>
 <th>meta description</th>
 <td>The meta description length of your page is 0 characters.</td>
 <td>Most search engines will truncate Meta descriptions to 160 characters.Your primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines.</td>
@@ -38,7 +38,7 @@
 </tr>
 
 <tr>
-
+<th>3</th>
 <th>keywords test</th>
 <td>There is likely no optimal keyword density</td>
 <td>search engine alogorithms have evolved beyond keyword density metrics as a significant ranking factor it can be useful however to note which keywords appear most often in the page and if they reflect the intended topic of your page more importantly the keywords in your page should appear within natural sounding and grammatically correct copy</td>
@@ -47,7 +47,7 @@
 </tr>
 
 <tr>
-
+<th>4</th>
 <th>Keywords Test</th>
 
 <td>Your most common keywords are not appearing in one or more of the meta-tags above.</td>
@@ -60,7 +60,7 @@
 
 <tr>
 
-
+<th>5</th>
 <th>html page size test</th>
 
 <td>Your HTML size is 16.78 Kb and this is under the average web page size of 33 Kb.</td>
@@ -70,7 +70,7 @@
 </tr>
 
 <tr>
-
+<th>6</th>
 <th>html compreession test</th>
 
 <td>Your page is successfully compressed using gzip compression on your code.</td>
@@ -81,7 +81,7 @@
 
 <tr>
 
-
+<th>7</th>
 <th>Noindex Tag Checker</th>
 <td>Your webpage does not use the noindex meta tag.</td>
 <td>This means that your webpage will be read and indexed by search engines.</td>
@@ -90,7 +90,7 @@
 </tr>
 
 <tr>
-
+<th>8</th>
 <th>image alt test</th>
 <td>Your webpage has 18 'img' tags and 18 of them missing the required 'alt' attribute.</td>
 <td>It is imp to have .The alt attribute's descriptive information is useful to assist visually impaired customers and search engine crawlers as they navigate the site.</td>
@@ -98,7 +98,7 @@
 </tr>
 
 <tr>
-
+<th>9</th>
 <th>site maps</th>
 
 <td>We've found 1 sitemaps files for your website:</td>
@@ -108,7 +108,7 @@
 </tr>
 
 <tr>
-
+<th>10</th>
 <th>H1 tag</th>
 
 <td>Your page does contains H1 headings.</td>
@@ -118,7 +118,7 @@
 </tr>
 
 <tr>
-
+<th>11</th>
 <th>SEO Friendly URL Test</th>
 
 <td>6 internal urls found that are not seo friendly.</td>
@@ -127,6 +127,7 @@
 </tr>
 
 <tr>
+<th>12</th>
 <th>SEO Score:</th>
 <td>54</td>
 <td>Make the website seo friendly to increase the score</td>
@@ -136,6 +137,7 @@
 </tr>
 
 <tr>
+<th>13</th>
 <th>Grade </th>
 <td> C </td>
 <td>Make the website seo friendly to increase the grade</td>
@@ -144,6 +146,7 @@
 
 
 <tr>
+<th>14</th>
 <th>Page Authority	</th>
 <td>Page Authority of your website is only - 0</td>
 <td>It is good to have domain authority more than 20.</td>
@@ -151,6 +154,7 @@
 </tr>
 
 <tr>
+<th>15</th>
 <th>Domain authority</th>
 <td>Page Authority of your website is only - 0</td>
 <td>It is good to have domain authority more than 20.</td>
@@ -158,6 +162,7 @@
 </tr>
 
 <tr>
+<th>16</th>
 <th>Nofollow Tag Checker</th>
 <td>Your webpage does not use the nofollow meta tag.</td>
 <td>This means that search engins will crawl all links from your webpage.</td>
@@ -166,12 +171,14 @@
 
 
 <tr>
+<th>17</th>
 <th> redirection Test</th>
 <td> a redirect is in place to redirect traffic from your non-preferred domain. </td>
 <td> your website directs www.irctc.co.in and irctc.co.in to the same URL.</td>
 <td>good</td><br>
 </tr>
 <tr>
+<th>18</th>
 <th>Favicon Test</th>
 <td>Your website appears not to have a favicon.</td>
 <td>Create a favourite icon to give your web site a more professional perspective.</td>
@@ -179,7 +186,7 @@
 </tr>
 <tr>
 
-
+<th>19</th>
 <th>Robots.txt Test</th>
 <td>Your site use a "robots.txt" file: http://irctc.co.in/robots.txt</td>
 <td>There are a few ways to block search engines from accessing a given domain: Block with Robots.tx. This tells the engines not to crawl the given URL, but that they may keep the page in the index and display it in results.</td>
@@ -187,6 +194,7 @@
 </tr>
 
 <tr>
+<th>20</th>
 <th>H2 tags</th>
 <td>No H2 headings Found</td>
 <td>it highly effects your page SEO. H2 tags are important to the search engines . Unlike the H1 tag, you may have multiple H3, H4, H5, and H6 sub-headings. These sub-headings as ways of organizing the content on your page for your readers more than for the search engines.</td>
