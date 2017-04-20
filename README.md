@@ -159,6 +159,7 @@
 <td>Page Authority of your website is only - 0</td>
 <td>It is good to have domain authority more than 20.</td>
 <td>not good</td><br>
+
 </tr>
 
 <tr>
@@ -202,6 +203,23 @@
 </tr>
 
 </table>
+
+
+<p>
+<table>
+<tr>
+     <th> <u><b>Domain Age</b></u></th>
+    </tr>
+    <tr>
+      <td><b>Created on</b></td><td>2002-06-04</td>
+    </tr>
+    <tr>
+      <td><b>Expiration Date</b></td><td>2020-06-04</td> </tr>
+    <tr>
+      <td><b>Last Updated</b></td><td>2015-05-28</td>
+    </tr>
+</table>
+
 
 </body>
 
